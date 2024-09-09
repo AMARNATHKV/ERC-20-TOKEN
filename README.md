@@ -19,6 +19,7 @@ This repository contains the smart contract for GameT Token (GTE), an ERC20 toke
 ## Contract Address 🏷️
 
 The contract is deployed and verified at:
+
 Address: 0x1C1e5B455623DCc59277255a5C4b04ac152c362f
 
 ## How to Interact 🔧
